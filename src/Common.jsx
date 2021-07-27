@@ -12,7 +12,7 @@ const Common = (props) => {
                             <div className="col-md-6 p-t-5 pt-lg-0 order-2 order-lg-1 display-flex justify-content-center flex-column">
                                 <h1>
                                   {props.name}
-                                   <strong className="brand-name">Thapa Technical</strong>
+                                   <strong className="brand-name">Dream Service</strong>
                                 </h1>
                                 <h2 className="my-3">
                                     We are the team of talented developer making websites
